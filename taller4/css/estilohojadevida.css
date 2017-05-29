@@ -1,0 +1,42 @@
+.informacion{
+	border-style: solid;
+    border-width: 1pt;
+	margin-bottom: 10px;
+	border-color: #cbccc1;
+    
+}
+
+ img{
+	width: 15%;
+	float:left;
+	padding: 15px;
+}
+
+div#info{
+	padding: 15px;
+}
+
+section h2{
+	margin:5px;
+}
+
+h1{
+	text-align: center;
+}
+
+div#cole{
+	border-top-style: solid;
+	border-top-width:  2pt;
+}
+
+.informacion div{
+	margin: 2pt;
+}
+
+#dato{
+	text-align: center;
+}
+
+p{
+	margin-left: 7pt;
+}
